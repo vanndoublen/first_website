@@ -1,0 +1,30 @@
+.body {
+    background-color:#e8e8e8;
+    }
+.center{
+    text-align: center;
+}
+.center h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color:#601909;
+}
+.subtitle{
+    font-family:Garamond;
+    background-color:brown;
+    color:#601909;
+
+}
+.line{
+    display: flex;
+    gap:100px;
+
+}
+.line p{
+    font-family:cursive;
+}
+
+.line .music audio{
+    width=100%;
+    outline=none;
+}
+
